@@ -62,10 +62,7 @@ header {
 
 .front {
     transform: rotateY(180deg);
-
-
 }
-
 
 .back {
     background-image: url('../imagens/back.png');
@@ -80,4 +77,3 @@ header {
     filter: saturate(0);
     opacity: 0.5;
 }
-
